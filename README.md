@@ -1,6 +1,7 @@
 # Simple Business Card - Practicing HTML and CSS
 
 ## Demo
+#### [Link to published project](https://delightful-lamington-178538.netlify.app)
 
 ![Demo GIF](images/screen-capture.gif)
 
