@@ -7,6 +7,18 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     height: 100%;
     background: #D9E3FD;
+    animation-name: background-change;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes background-change {
+  0%   {background-color:#cdb4db;}
+  20%  {background-color:#ffc8dd;}
+  40%  {background-color:#ffafcc;}
+  60%  {background-color:#bde0fe;}
+  80% {background-color:#a2d2ff;}
+  100% {background-color:#cdb4db;}
 }
 
 .avatar {
