@@ -2,7 +2,9 @@
 
 ## Demo
 
-![](images//screen-capture.gif)
+![](images/screen-capture.gif)
 
 
-### This project is a part of the HTML-CSS course at [Scrimba](https://scrimba.com) 🚀
+### Note: This project is a part of the HTML-CSS course at [Scrimba](https://scrimba.com) 🚀
+#### Initial application interface:
+![](images/initial%20application%20interface.png)
